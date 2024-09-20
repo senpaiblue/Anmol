@@ -7,7 +7,7 @@ import { TextGenerateEffect } from "./TextGenerateEffect";
 export function Features() {
   const data = [
     {
-      title: "2024",
+      title: "nipple",
       content: (
         <div>
           <p className="text-neutral-200 text-xs md:text-lg font-normal mb-8">
@@ -25,7 +25,7 @@ export function Features() {
       ),
     },
     {
-      title: "Early 2023",
+      title: "pussy",
       content: (
         <div>
           <p className="text-white text-xs md:text-lg font-normal mb-8">
@@ -52,7 +52,7 @@ export function Features() {
       ),
     },
     {
-      title: "Changelog",
+      title: "Boobie",
       content: (
         <div className="w-full flex flex-col items-start justify-center">
           <p className="text-white text-xs md:text-lg font-normal mb-8">

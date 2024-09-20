@@ -1,4 +1,3 @@
-import Image from "next/image";
 import React from "react";
 import { Timeline } from "@/components/ui/Timeline";
 import Video from "../Video";
@@ -7,7 +6,7 @@ import { TextGenerateEffect } from "./TextGenerateEffect";
 export function Features() {
   const data = [
     {
-      title: "nipple",
+      title: "Tony",
       content: (
         <div>
           <p className="text-neutral-200 text-xs md:text-lg font-normal mb-8">
@@ -25,7 +24,7 @@ export function Features() {
       ),
     },
     {
-      title: "pussy",
+      title: "Zack",
       content: (
         <div>
           <p className="text-white text-xs md:text-lg font-normal mb-8">
@@ -52,7 +51,7 @@ export function Features() {
       ),
     },
     {
-      title: "Boobie",
+      title: "Ruie",
       content: (
         <div className="w-full flex flex-col items-start justify-center">
           <p className="text-white text-xs md:text-lg font-normal mb-8">

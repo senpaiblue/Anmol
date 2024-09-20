@@ -50,8 +50,7 @@ export const Timeline = ({ data }: { data: TimelineEntry[] }) => {
          <TextGenerateEffect words=" Changelog from my journey"/>
         </h2>
         <p className="text-neutral-300 text-sm md:text-base max-w-sm">
-         <TextGenerateEffect words=" I&apos;ve been working on Aceternity for the past 2 years. Here&apos;s
-          a timeline of my journey."/>
+         <TextGenerateEffect words=" Taking visuals from zero to lit, turning every frame into a dynamic experience that captures attention."/>
         </p>
       </div>
 

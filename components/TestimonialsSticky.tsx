@@ -10,7 +10,13 @@ const content = [
       "Work together in real time with your team, clients, and stakeholders. Collaborate on documents, share ideas, and make decisions quickly. With our platform, you can streamline your workflow and increase productivity.",
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
-        Collaborative Editing
+        <Image
+          src="/I2.jpeg"
+          width={300}
+          height={300}
+          className="h-full w-full object-cover"
+          alt="linear board demo"
+        />
       </div>
     ),
   },
@@ -21,7 +27,7 @@ const content = [
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
         <Image
-          src="/linear.webp"
+          src="/I1.jpeg"
           width={300}
           height={300}
           className="h-full w-full object-cover"
@@ -36,7 +42,13 @@ const content = [
       "Experience real-time updates and never stress about version control again. Our platform ensures that you're always working on the most recent version of your project, eliminating the need for constant manual updates. Stay in the loop, keep your team aligned, and maintain the flow of your work without any interruptions.",
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
-        Version control
+        <Image
+          src="/I1.jpeg"
+          width={300}
+          height={300}
+          className="h-full w-full object-cover"
+          alt="linear board demo"
+        />
       </div>
     ),
   },
@@ -46,7 +58,13 @@ const content = [
       "Experience real-time updates and never stress about version control again. Our platform ensures that you're always working on the most recent version of your project, eliminating the need for constant manual updates. Stay in the loop, keep your team aligned, and maintain the flow of your work without any interruptions.",
     content: (
       <div className="h-full w-full flex items-center justify-center text-white">
-        Running out of content
+        <Image
+          src="/I2.jpeg"
+          width={300}
+          height={300}
+          className="h-full w-full object-cover"
+          alt="linear board demo"
+        />
       </div>
     ),
   },

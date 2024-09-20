@@ -23,7 +23,7 @@ export function SpotlightHero() {
           </>
         }
       >
-        <Video VideoLink="sampleVideo.mp4"/>
+        <Video VideoLink="/sampleVideo.mp4"/>
       </ContainerScroll>
     </div>
     </section>
